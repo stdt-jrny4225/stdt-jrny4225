@@ -3,7 +3,8 @@
 🎓 Diploma in Computer Science Engineering  
 💻 Full Stack Developer | Java | MERN Stack  
 🚀 Passionate about building real-world, scalable web applications  
-🌐 Portfolio: https://razz-1a4i.onrender.com 
+🌐 Portfolio: https://razz-1a4i.onrender.com
+
 ---
 
 ## 👨‍💻 About Me
